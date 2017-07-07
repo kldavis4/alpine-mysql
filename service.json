@@ -24,5 +24,10 @@
         "dockerfile": "Dockerfile"
       }
     }
+  },
+  "image": {
+    "container": {
+      "image":"wangxian/alpine-mysql:latest"
+    }
   }
 }
