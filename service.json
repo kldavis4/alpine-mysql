@@ -1,0 +1,19 @@
+{
+  "name": "alpine-mysql",
+  "version": "1.0",
+  "description": "Variant of alpine-mysql with some sauce",
+  "author": "kldavis4",
+  "contributors": [
+    {
+      "name": "Kelly Davis",
+      "email": "kelly@kuali.co"
+    }
+  ],
+  "build": {
+    "container": {
+      "build": {
+        "dockerfile": "Dockerfile"
+      }
+    }
+  }
+}
