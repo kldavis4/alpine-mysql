@@ -9,7 +9,9 @@
       "email": "kelly@kuali.co"
     }
   ],
-  "dependencies": {},
+  "common": {
+    "dependencies": {}
+  },
   "build": {
     "container": {
       "build": {
