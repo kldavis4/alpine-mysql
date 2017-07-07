@@ -11,8 +11,7 @@
   ],
   "common": {
     "router": {},
-    "paths": {}
-    },
+    "paths": {},
     "dependencies": {}
   },
   "build": {
