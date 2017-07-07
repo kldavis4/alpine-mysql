@@ -27,7 +27,7 @@
   },
   "image": {
     "container": {
-      "image":"wangxian/alpine-mysql:latest"
+      "image":"667650582711.dkr.ecr.us-west-2.amazonaws.com/fin-dd-mysql:latest"
     }
   }
 }
